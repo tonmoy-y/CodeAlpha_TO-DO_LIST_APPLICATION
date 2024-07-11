@@ -2,7 +2,7 @@
 <hr>
 <i>Build a console-based to-do list application.
 Users should be able to add tasks, mark them as
-completed, and view their current tasks.</i>
+completed, and view their current tasks.</i> <br><hr>
 <b> Key features: </b>
 <li> All data entered while running the app will be saved </li>
 <li> User can see all current task at the same time</li>
