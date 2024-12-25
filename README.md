@@ -1,4 +1,4 @@
-﻿# TO-DO_LIST_APPLICATION
+﻿# TO-DO LIST APPLICATION
 <hr>
 <i>Build a console-based to-do list application.
 Users should be able to add tasks, mark them as
